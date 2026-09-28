@@ -1,0 +1,308 @@
+{
+  "documentId": "9c6ccc56-6928-4ad9-9be5-1708b7b3ccc0",
+  "extractedDate": "2026-09-26T07:59:01.7145582+00:00",
+  "soaTable": {
+    "caption": "Table 1-2: In-house Period (Schedule of Activities Day 1 to Day 4)",
+    "visits": [
+      {
+        "visitId": "D1_PRE",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "Pre-Dose",
+        "hour": null,
+        "visitWindow": "(-60)"
+      },
+      {
+        "visitId": "D1_0",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "0",
+        "hour": null,
+        "visitWindow": ""
+      },
+      {
+        "visitId": "D1_0_5h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "0.5h",
+        "hour": null,
+        "visitWindow": "(± 10)"
+      },
+      {
+        "visitId": "D1_1h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "1h",
+        "hour": null,
+        "visitWindow": "(± 10)"
+      },
+      {
+        "visitId": "D1_2h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "2h",
+        "hour": null,
+        "visitWindow": "(± 10)"
+      },
+      {
+        "visitId": "D1_4h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "4h",
+        "hour": null,
+        "visitWindow": "(± 15)"
+      },
+      {
+        "visitId": "D1_8h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "8h",
+        "hour": null,
+        "visitWindow": "(± 20)"
+      },
+      {
+        "visitId": "D1_12h",
+        "phase": null,
+        "period": "Day 1",
+        "week": null,
+        "studyDay": "12h",
+        "hour": null,
+        "visitWindow": "(± 30)"
+      },
+      {
+        "visitId": "D2_24h",
+        "phase": null,
+        "period": "Day 2",
+        "week": null,
+        "studyDay": "24",
+        "hour": null,
+        "visitWindow": "(± 60)"
+      },
+      {
+        "visitId": "D2_36h",
+        "phase": null,
+        "period": "Day 2",
+        "week": null,
+        "studyDay": "36h",
+        "hour": null,
+        "visitWindow": "(± 60)"
+      },
+      {
+        "visitId": "D3_48h",
+        "phase": null,
+        "period": "Day 3",
+        "week": null,
+        "studyDay": "48h",
+        "hour": null,
+        "visitWindow": "(± 60)"
+      },
+      {
+        "visitId": "D3_60h",
+        "phase": null,
+        "period": "Day 3",
+        "week": null,
+        "studyDay": "60h",
+        "hour": null,
+        "visitWindow": "(± 60)"
+      },
+      {
+        "visitId": "D4_96h",
+        "phase": null,
+        "period": "Day 4",
+        "week": null,
+        "studyDay": "96h",
+        "hour": null,
+        "visitWindow": "(± 60)"
+      }
+    ],
+    "procedures": [
+      {
+        "procedureId": "I_E_CRITERIA",
+        "name": "Inclusion and exclusion criteria"
+      },
+      {
+        "procedureId": "VITAL_SIGNS",
+        "name": "Vital signs (incl. Temperature)"
+      },
+      { "procedureId": "BMI", "name": "BMI" },
+      {
+        "procedureId": "SYMPTOM_DIRECTED_PE",
+        "name": "Symptom-directed physical examination"
+      },
+      { "procedureId": "ECG_12_LEAD", "name": "Single 12-lead ECG" },
+      {
+        "procedureId": "INJECTION_SITE_REACTION",
+        "name": "Injection Site Reaction"
+      },
+      { "procedureId": "URINALYSIS", "name": "Urinalysis" },
+      { "procedureId": "LAB_TESTS", "name": "Laboratory tests [[6]](162 0 R)" },
+      {
+        "procedureId": "PHARMACODYNAMICS",
+        "name": "Pharmacodynamics (serum TL1A)"
+      },
+      { "procedureId": "PHARMACOKINETICS", "name": "Pharmacokinetics" },
+      {
+        "procedureId": "IMMUNOGENICITY",
+        "name": "Immunogenicity (ADA and NAb)"
+      },
+      { "procedureId": "RANDOMIZATION", "name": "Randomization" },
+      { "procedureId": "STUDY_INTERVENTION", "name": "Study intervention" },
+      { "procedureId": "BED_REST", "name": "Bed rest" },
+      { "procedureId": "DISCHARGE_CRU", "name": "Discharge from CRU" },
+      { "procedureId": "AE_MONITORING", "name": "(S)AE monitoring" },
+      {
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS",
+        "name": "Prior and concomitant medications [[7]](163 0 R)"
+      }
+    ],
+    "scheduleItems": [
+      { "visitId": "D1_PRE", "procedureId": "I_E_CRITERIA" },
+      { "visitId": "D1_PRE", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_0_5h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_1h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_2h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_4h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_8h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_12h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D2_24h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D2_36h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D3_48h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D3_60h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D4_96h", "procedureId": "VITAL_SIGNS" },
+      { "visitId": "D1_PRE", "procedureId": "BMI" },
+      { "visitId": "D4_96h", "procedureId": "BMI" },
+      { "visitId": "D1_PRE", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_0", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_0_5h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_1h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_2h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_4h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_8h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_12h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D2_24h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D2_36h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D3_48h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D3_60h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D4_96h", "procedureId": "SYMPTOM_DIRECTED_PE" },
+      { "visitId": "D1_PRE", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D1_2h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D1_4h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D1_8h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D2_24h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D3_48h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D4_96h", "procedureId": "ECG_12_LEAD" },
+      { "visitId": "D1_0_5h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D1_1h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D1_2h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D1_4h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D1_8h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D1_12h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D2_24h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D2_36h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D3_48h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D3_60h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D4_96h", "procedureId": "INJECTION_SITE_REACTION" },
+      { "visitId": "D4_96h", "procedureId": "URINALYSIS" },
+      { "visitId": "D1_PRE", "procedureId": "LAB_TESTS" },
+      { "visitId": "D1_8h", "procedureId": "LAB_TESTS" },
+      { "visitId": "D2_24h", "procedureId": "LAB_TESTS" },
+      { "visitId": "D3_48h", "procedureId": "LAB_TESTS" },
+      { "visitId": "D4_96h", "procedureId": "LAB_TESTS" },
+      { "visitId": "D1_PRE", "procedureId": "PHARMACODYNAMICS" },
+      { "visitId": "D1_12h", "procedureId": "PHARMACODYNAMICS" },
+      { "visitId": "D2_24h", "procedureId": "PHARMACODYNAMICS" },
+      { "visitId": "D4_96h", "procedureId": "PHARMACODYNAMICS" },
+      { "visitId": "D1_PRE", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D1_0_5h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D1_1h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D1_4h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D1_8h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D2_24h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D3_48h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D4_96h", "procedureId": "PHARMACOKINETICS" },
+      { "visitId": "D4_96h", "procedureId": "IMMUNOGENICITY" },
+      { "visitId": "D1_0", "procedureId": "RANDOMIZATION" },
+      { "visitId": "D1_0", "procedureId": "STUDY_INTERVENTION" },
+      { "visitId": "D1_PRE", "procedureId": "BED_REST" },
+      { "visitId": "D1_0", "procedureId": "BED_REST" },
+      { "visitId": "D1_0_5h", "procedureId": "BED_REST" },
+      { "visitId": "D1_1h", "procedureId": "BED_REST" },
+      { "visitId": "D1_2h", "procedureId": "BED_REST" },
+      { "visitId": "D1_4h", "procedureId": "BED_REST" },
+      { "visitId": "D4_96h", "procedureId": "DISCHARGE_CRU" },
+      { "visitId": "D1_PRE", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_0", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_0_5h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_1h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_2h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_4h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_8h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D1_12h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D2_24h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D2_36h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D3_48h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D3_60h", "procedureId": "AE_MONITORING" },
+      { "visitId": "D4_96h", "procedureId": "AE_MONITORING" },
+      {
+        "visitId": "D1_PRE",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      { "visitId": "D1_0", "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS" },
+      {
+        "visitId": "D1_0_5h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D1_1h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D1_2h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D1_4h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D1_8h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D1_12h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D2_24h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D2_36h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D3_48h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D3_60h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      },
+      {
+        "visitId": "D4_96h",
+        "procedureId": "PRIOR_AND_CONCOMITANT_MEDICATIONS"
+      }
+    ],
+    "footnotes": []
+  },
+  "id": "84d6357f-6191-42e0-b89d-74b61441cbe3",
+  "requestId": "52b58ea5-abd1-472f-89ee-02c58dbaa01d",
+  "type": "SoaExtractionData"
+}

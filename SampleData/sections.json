@@ -1,0 +1,37 @@
+[
+  {
+    "SectionId": "1.2",
+    "HeadingPath": "1 Protocol Summary > 1.2 List of Abbreviations",
+    "Markdown": "| Abbreviation | Definition |\n|---|---|\n| ADA | anti-drug antibody |\n| AE | adverse event |\n| NAb | neutralizing antibody |\n| SAE | serious adverse event |\n| SoA | schedule of activities |\n| TL1A | tumor necrosis factor-like ligand 1A |"
+  },
+  {
+    "SectionId": "8.2.1",
+    "HeadingPath": "8 Study Assessments and Procedures > 8.2 Safety Assessments > 8.2.1 Vital Signs",
+    "Markdown": "Vital signs (including temperature) will be assessed pre-dose and at 2 h (±10 min), 4 h (±15 min) and 8 h (±20 min) post-dose on Day 1, and at 24 h (±60 min) on Day 2. If systolic blood pressure exceeds 160 mmHg at any assessment, vital signs should be repeated after 10 minutes."
+  },
+  {
+    "SectionId": "8.2.2",
+    "HeadingPath": "8 Study Assessments and Procedures > 8.2 Safety Assessments > 8.2.2 Injection Site Reactions",
+    "Markdown": "Injection site reactions will be assessed every 2 hours for the first 8 hours after dosing (±15 min)."
+  },
+  {
+    "SectionId": "8.2.3",
+    "HeadingPath": "8 Study Assessments and Procedures > 8.2 Safety Assessments > 8.2.3 Electrocardiograms",
+    "Markdown": "A single 12-lead ECG will be recorded, in triplicate approximately 2 minutes apart, pre-dose and at 2 h (±10 min) and 4 h (±15 min) post-dose on Day 1."
+  },
+  {
+    "SectionId": "8.4.2",
+    "HeadingPath": "8 Study Assessments and Procedures > 8.4 Pharmacokinetics > 8.4.2 PK Sampling",
+    "Markdown": "Pharmacokinetic blood samples will be collected pre-dose and at 0.5 h (±10 min), 1 h (±10 min), 4 h (±15 min) and 8 h (±20 min) post-dose on Day 1, and at 24 h (±60 min) on Day 2. An additional pharmacokinetic sample will be collected at 2 h (±10 min) post-dose on Day 1 to support exploratory metabolite profiling. Pharmacokinetic parameters will be derived using non-compartmental analysis."
+  },
+  {
+    "SectionId": "8.5",
+    "HeadingPath": "8 Study Assessments and Procedures > 8.5 Biomarkers",
+    "Markdown": "Exploratory pharmacodynamic biomarkers (serum TL1A) will be assessed according to the schedule of activities. An exploratory skin biopsy will be collected at 96 h on Day 4 to support tissue-level analyses. Biopsy handling and shipment are described in the laboratory manual."
+  },
+  {
+    "SectionId": "9.2",
+    "HeadingPath": "9 Statistical Considerations > 9.2 Sample Size Determination",
+    "Markdown": "A total of 24 participants will be enrolled. Assuming a between-participant coefficient of variation of 30%, this sample size provides at least 80% power to detect a 25% difference in the primary endpoint at a two-sided significance level of 0.05. No formal hypothesis testing is planned for secondary endpoints."
+  }
+]

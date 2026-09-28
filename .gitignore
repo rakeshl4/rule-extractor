@@ -1,0 +1,59 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio Code
+*.code-workspace
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+*.sln.iml
+
+# Local environment files
+.env
+.env.local
+appsettings.local.json
+
+# NuGet
+packages/
+.nuget/
+
+# Output directories
+[Oo]utput/
+[Rr]esults/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if used for tooling)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Miscellaneous
+*.log
+*.tmp
